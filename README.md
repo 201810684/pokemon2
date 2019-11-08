@@ -1,1 +1,2 @@
-# pokemon2
+# Chicken-Time
+WebRepository for the website Chicken Time
